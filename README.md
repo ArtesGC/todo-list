@@ -4,5 +4,5 @@
 
 ---
 
-&copy; Nurul Carvalho
+&copy; Nurul Carvalho \
 &trade; ArtesGC
