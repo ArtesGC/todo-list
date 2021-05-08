@@ -1,6 +1,6 @@
 # ArtesGC - todolist
 
-![todo-list](./artesgc%20todolist%20(1).png)
+![todo-list](https://github.com/ArtesGC/todo-list/blob/main/img/artesgc%20todolist.png)
 
 ---
 &copy; Nurul Carvalho \
