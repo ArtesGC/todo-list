@@ -1,6 +1,6 @@
 # ArtesGC - todolist
 
-![todo-list](img/artesgc%20todolist.png)
+![todo-list](img/artesgc_todolist.png)
 
 ---
 
